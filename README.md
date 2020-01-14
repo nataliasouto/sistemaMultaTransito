@@ -1,4 +1,4 @@
-Sistema Multa de Trânsito
+<h1>Sistema Multa de Trânsito</h1>
 Sistema básico de multa de Trânsito, feito em HTML, CSS e JavaScript.
 
 <strong>Exemplo da tela do sistema</strong>
